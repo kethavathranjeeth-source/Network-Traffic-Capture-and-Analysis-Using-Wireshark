@@ -1,0 +1,7 @@
+ #Findings and Observations
+•	Multiple protocol layers work together in common network activities.
+•	DNS queries occur before HTTP/HTTPS connections to resolve domain names.
+•	TCP establishes reliable connections using a 3-way handshake.
+•	HTTP transfers web content in clear text (unless encrypted with TLS).
+•	ICMP packets show successful request-reply communication.
+This demonstrates how common protocols interact during typical internet usage.
